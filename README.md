@@ -8,6 +8,8 @@ Leap Year Calculator - Calculates whether a year is a leap year or not, uses mod
 
 Life Left - Calculates how long you have left to live in months, weeks and days, if you lived till 90.
 
+Love Calculator - This could be broken as apparently I'm not compatible with any famous celebrity...
+
 Pizza Ordering System - Simple Pizza Ordering System, based on various types of if/else operators.
 
 Tip Calculator - Calculates what everyone should pay inc tip after a meal.
