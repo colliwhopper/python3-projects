@@ -13,3 +13,5 @@ Love Calculator - This could be broken as apparently I'm not compatible with any
 Pizza Ordering System - Simple Pizza Ordering System, based on various types of if/else operators.
 
 Tip Calculator - Calculates what everyone should pay inc tip after a meal.
+
+Treasure Island - Input based game using if/elif logic.
