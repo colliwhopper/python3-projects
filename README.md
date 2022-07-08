@@ -14,4 +14,6 @@ Pizza Ordering System - Simple Pizza Ordering System, based on various types of 
 
 Tip Calculator - Calculates what everyone should pay inc tip after a meal.
 
+Toss A Coin - Can't make a decision and don't have a coin? Here, this'll do it for you.
+
 Treasure Island - Input based game using if/elif logic.
