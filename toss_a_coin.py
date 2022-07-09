@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import random
 
 random_integer = random.randint(0, 1)
