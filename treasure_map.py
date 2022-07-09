@@ -14,4 +14,4 @@ row = int( position[1] )
 # selected_row = map[ row -1 ]
 # selected_row[ column -1 ] = "X"
 
-map[ column -1 ] [ row -1] = "X"
+map[ column -1 ] [ row -1 ] = "X"
