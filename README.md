@@ -1,5 +1,7 @@
 # python3-projects
 
+**Average Height Calculator** - Calculates average heights. Or average of any other number for that matter...
+
 **BMI Calculator** - Simple python3 script to calculate BMI to x2 decimal places.
 
 **BMI Calculator (Improved)** - Calculates BMI and outputs BMI and summary.
