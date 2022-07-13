@@ -6,6 +6,8 @@
 
 **BMI Calculator (Improved)** - Calculates BMI and outputs BMI and summary.
 
+**High Score Calculator** - Who has the highest score? (calculator...)
+
 **Leap Year Calculator** - Calculates whether a year is a leap year or not, uses modulos and if/else operators.
 
 **Life Left** - Calculates how long you have left to live in months, weeks and days, if you lived till 90.
