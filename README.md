@@ -18,6 +18,8 @@
 
 **Pizza Ordering System** - Simple pizza ordering system, based on various types of if/else operators.
 
+**Random Password Generator** - Need a random password? You've come to the right place...
+
 **Rock Paper Scissors Game** - Classic game.
 
 **Tip Calculator** - Calculates what everyone should pay inc tip after a meal.
